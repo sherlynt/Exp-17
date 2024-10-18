@@ -64,6 +64,7 @@ int main() {
 
 ```
 o/p:
+ ![image](https://github.com/user-attachments/assets/caa1a116-b3c8-4a55-a127-e524f76c66c9)
 
 
 
@@ -120,6 +121,9 @@ int main() {
 }
 ```
 o/p:
+
+![image](https://github.com/user-attachments/assets/d1d7f647-4793-4555-8f94-cc9c498ab2cc)
+
 
 
 
